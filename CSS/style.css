@@ -210,7 +210,18 @@ font-size:25px;
 .A p{
 font-size:15px;
 }
-
+.B li{
+	
+	
+	padding-left:0px;
+	display: flex;
+	flex-wrap: wrap;}
+	
+	.B ul{
+	display: flex;
+	flex-wrap: wrap;
+	
+	}
 	
 	
 }
