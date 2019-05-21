@@ -210,10 +210,14 @@ font-size:25px;
 .A p{
 font-size:15px;
 }
-.B li{
-	padding-left:0px;
-	float:left;}
 .B ul{
+padding-left:0px;
+display:block;}
+
+
+.B li{
+	padding-bottom:0px; 
 	padding-left:0px;
-}
+	
+	}
 }
