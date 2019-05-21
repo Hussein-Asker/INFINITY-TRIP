@@ -212,5 +212,8 @@ font-size:15px;
 }
 .B li{
 	padding-left:0px;
-	margin-left: 0px;}
+	float:left;}
+.B ul{
+	padding-left:0px;
+}
 }
