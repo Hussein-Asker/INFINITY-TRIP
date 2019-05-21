@@ -103,7 +103,7 @@ padding-left: 25px;
 	.B li{
 	
 	list-style: none;
-	padding:60px;
+	padding:30px;
 	
 
 	display: flex;
@@ -197,6 +197,7 @@ body{
 }
 
 .A ul,
+.B,
 .B h2{
 	text-align:center;
 	font-size:25px;
@@ -210,11 +211,11 @@ font-size:25px;
 font-size:15px;
 }
 .B ul{
-padding-left:0px;}
+padding-left:80px;
+display:block;}
 
 
 .B li{
-	
 	padding-bottom:0px; 
 	padding-left:0px;
 	
